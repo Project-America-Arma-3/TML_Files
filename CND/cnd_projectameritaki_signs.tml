@@ -1,0 +1,3270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Library name="cnd_projectameritaki_signs" shape="rectangle" default_fill="-16777216" default_outline="-65536" tex="0">
+	<Template>
+		<Name>15minpickupparking_sign</Name>
+		<File>CND\ProjectAmerica\signs\15minpickupparking_sign.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>1149184206</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>bollard</Name>
+		<File>CND\ProjectAmerica\signs\bollard.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>310089990</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>bollardbrown</Name>
+		<File>CND\ProjectAmerica\signs\bollardbrown.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>571676816</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>bollardgreen</Name>
+		<File>CND\ProjectAmerica\signs\bollardgreen.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>1890735133</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>bridgemayice</Name>
+		<File>CND\ProjectAmerica\signs\bridgemayice.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>1636939695</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>deadend</Name>
+		<File>CND\ProjectAmerica\signs\deadend.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-2085925993</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>deercrossing</Name>
+		<File>CND\ProjectAmerica\signs\deercrossing.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>1003793680</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>disabledparking_sign</Name>
+		<File>CND\ProjectAmerica\signs\disabledparking_sign.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>1586103520</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>donotstopontracks</Name>
+		<File>CND\ProjectAmerica\signs\donotstopontracks.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-566120783</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>ggwarehouselogo_pt1</Name>
+		<File>CND\ProjectAmerica\signs\ggwarehouselogo_pt1.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>1820340636</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>ggwarehouselogo_pt2</Name>
+		<File>CND\ProjectAmerica\signs\ggwarehouselogo_pt2.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>1820340637</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>greengrocerylogo</Name>
+		<File>CND\ProjectAmerica\signs\greengrocerylogo.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-1616229739</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>highwayexitsign_generic</Name>
+		<File>CND\ProjectAmerica\signs\highwayexitsign_generic.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-1350237632</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>laneends_left</Name>
+		<File>CND\ProjectAmerica\signs\laneends_left.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>1324515490</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>laneends_right</Name>
+		<File>CND\ProjectAmerica\signs\laneends_right.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>1080504801</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>lightahead</Name>
+		<File>CND\ProjectAmerica\signs\lightahead.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-448373525</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>mailbox_v1</Name>
+		<File>CND\ProjectAmerica\signs\mailbox_v1.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-1443210202</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>mailbox_v2</Name>
+		<File>CND\ProjectAmerica\signs\mailbox_v2.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-1443210201</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>mailbox_v3</Name>
+		<File>CND\ProjectAmerica\signs\mailbox_v3.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-1443210200</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>mailbox_v4</Name>
+		<File>CND\ProjectAmerica\signs\mailbox_v4.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-1443210199</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>mailbox_v5</Name>
+		<File>CND\ProjectAmerica\signs\mailbox_v5.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-1443210198</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>mergefromleft</Name>
+		<File>CND\ProjectAmerica\signs\mergefromleft.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>1224789321</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>mergefromright</Name>
+		<File>CND\ProjectAmerica\signs\mergefromright.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>378736378</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>militarysign_fortlopeznextleft</Name>
+		<File>CND\ProjectAmerica\signs\militarysign_fortlopeznextleft.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>2139255100</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>militarysign_fortlopeznextright</Name>
+		<File>CND\ProjectAmerica\signs\militarysign_fortlopeznextright.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>611149767</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>militarysign_idcheck</Name>
+		<File>CND\ProjectAmerica\signs\militarysign_idcheck.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-102059080</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>militarysign_v1</Name>
+		<File>CND\ProjectAmerica\signs\militarysign_v1.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-1744732944</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>museumsign_hours</Name>
+		<File>CND\ProjectAmerica\signs\museumsign_hours.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>592415551</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>museumsign_name</Name>
+		<File>CND\ProjectAmerica\signs\museumsign_name.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-127857765</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>onewayleft</Name>
+		<File>CND\ProjectAmerica\signs\onewayleft.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-769006480</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>onewayright</Name>
+		<File>CND\ProjectAmerica\signs\onewayright.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-287915629</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>parkingcurb_blue</Name>
+		<File>CND\ProjectAmerica\signs\parkingcurb_blue.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>495677279</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>parkingcurb_grey</Name>
+		<File>CND\ProjectAmerica\signs\parkingcurb_grey.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>152165444</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>parkingcurb_yellow</Name>
+		<File>CND\ProjectAmerica\signs\parkingcurb_yellow.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>1664484633</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>pedcrossing</Name>
+		<File>CND\ProjectAmerica\signs\pedcrossing.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-97006863</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>plasticsign_ads</Name>
+		<File>CND\ProjectAmerica\signs\plasticsign_ads.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-1924033746</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>plasticsign_credit</Name>
+		<File>CND\ProjectAmerica\signs\plasticsign_credit.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-1894522341</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>plasticsign_endisnear</Name>
+		<File>CND\ProjectAmerica\signs\plasticsign_endisnear.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-1870834005</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>plasticsign_forsale</Name>
+		<File>CND\ProjectAmerica\signs\plasticsign_forsale.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-2132157170</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>plasticsign_hunters</Name>
+		<File>CND\ProjectAmerica\signs\plasticsign_hunters.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-753035823</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>plasticsign_landclearing</Name>
+		<File>CND\ProjectAmerica\signs\plasticsign_landclearing.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>100895778</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>plasticsign_peanuts</Name>
+		<File>CND\ProjectAmerica\signs\plasticsign_peanuts.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-1620560144</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>plasticsign_sneed</Name>
+		<File>CND\ProjectAmerica\signs\plasticsign_sneed.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-4066841</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>plasticsign_trump</Name>
+		<File>CND\ProjectAmerica\signs\plasticsign_trump.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>95587832</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>railroadcrossing_sign</Name>
+		<File>CND\ProjectAmerica\signs\railroadcrossing_sign.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-708020440</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>railroadcrossing_yield_sign</Name>
+		<File>CND\ProjectAmerica\signs\railroadcrossing_yield_sign.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-39386726</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>reflectivemarker</Name>
+		<File>CND\ProjectAmerica\signs\reflectivemarker.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>1744841237</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>reflectivemarkerwhite</Name>
+		<File>CND\ProjectAmerica\signs\reflectivemarkerwhite.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>1600503828</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>refrigerator_green_1</Name>
+		<File>CND\ProjectAmerica\signs\refrigerator_green.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-1252998090</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>sharetheroad</Name>
+		<File>CND\ProjectAmerica\signs\sharetheroad.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-476605294</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>shortdiamondreflective</Name>
+		<File>CND\ProjectAmerica\signs\shortdiamondreflective.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-1704263437</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>speedlimit10</Name>
+		<File>CND\ProjectAmerica\signs\speedlimit10.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>1712947667</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>speedlimit15</Name>
+		<File>CND\ProjectAmerica\signs\speedlimit15.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>1712947672</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>speedlimit25</Name>
+		<File>CND\ProjectAmerica\signs\speedlimit25.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>1713013271</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>speedlimit35</Name>
+		<File>CND\ProjectAmerica\signs\speedlimit35.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>1713078870</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>speedlimit45</Name>
+		<File>CND\ProjectAmerica\signs\speedlimit45.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>1713144469</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>speedlimit55</Name>
+		<File>CND\ProjectAmerica\signs\speedlimit55.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>1713210068</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>speedlimit65</Name>
+		<File>CND\ProjectAmerica\signs\speedlimit65.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>1713275667</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>speedlimit70</Name>
+		<File>CND\ProjectAmerica\signs\speedlimit70.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>1713341261</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>stopahead</Name>
+		<File>CND\ProjectAmerica\signs\stopahead.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>504290719</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>stopsign</Name>
+		<File>CND\ProjectAmerica\signs\stopsign.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-1145446017</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>usgovnotresspass</Name>
+		<File>CND\ProjectAmerica\signs\usgovnotresspass.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-1808378329</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>welcometolimestone_sign</Name>
+		<File>CND\ProjectAmerica\signs\welcometolimestone_sign.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>702950057</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>welcome_polkcounty</Name>
+		<File>CND\ProjectAmerica\signs\welcome_polkcounty.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-1403732187</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>yieldsign</Name>
+		<File>CND\ProjectAmerica\signs\yieldsign.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>638987562</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>intersection_2gox2stop_flashing</Name>
+		<File>CND\ProjectAmerica\signs\intersection_2xgo2xstop_flashing\intersection_2gox2stop_flashing.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>462367857</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>intersection_4xstop_flashing</Name>
+		<File>CND\ProjectAmerica\signs\intersection_4xstop_flashing\intersection_4xstop_flashing.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-2020890763</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>interstatesign_generic</Name>
+		<File>CND\ProjectAmerica\signs\interstatesigns\interstatesign_generic.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-1854218710</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>interstatesign_i10</Name>
+		<File>CND\ProjectAmerica\signs\interstatesigns\interstatesign_i10.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-449210853</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>interstatesign_i15</Name>
+		<File>CND\ProjectAmerica\signs\interstatesigns\interstatesign_i15.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-449210848</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>interstatesign_i16</Name>
+		<File>CND\ProjectAmerica\signs\interstatesigns\interstatesign_i16.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-449210847</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>interstatesign_i20</Name>
+		<File>CND\ProjectAmerica\signs\interstatesigns\interstatesign_i20.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-449145254</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>interstatesign_i25</Name>
+		<File>CND\ProjectAmerica\signs\interstatesigns\interstatesign_i25.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-449145249</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>interstatesign_i29</Name>
+		<File>CND\ProjectAmerica\signs\interstatesigns\interstatesign_i29.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-449145245</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>interstatesign_i30</Name>
+		<File>CND\ProjectAmerica\signs\interstatesigns\interstatesign_i30.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-449079655</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>interstatesign_i35</Name>
+		<File>CND\ProjectAmerica\signs\interstatesigns\interstatesign_i35.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-449079650</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>interstatesign_i4</Name>
+		<File>CND\ProjectAmerica\signs\interstatesigns\interstatesign_i4.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-1796522152</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>interstatesign_i40</Name>
+		<File>CND\ProjectAmerica\signs\interstatesigns\interstatesign_i40.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-449014056</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>interstatesign_i45</Name>
+		<File>CND\ProjectAmerica\signs\interstatesigns\interstatesign_i45.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-449014051</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>interstatesign_i5</Name>
+		<File>CND\ProjectAmerica\signs\interstatesigns\interstatesign_i5.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-1796522151</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>interstatesign_i50</Name>
+		<File>CND\ProjectAmerica\signs\interstatesigns\interstatesign_i50.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-448948457</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>interstatesign_i55</Name>
+		<File>CND\ProjectAmerica\signs\interstatesigns\interstatesign_i55.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-448948452</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>interstatesign_i60</Name>
+		<File>CND\ProjectAmerica\signs\interstatesigns\interstatesign_i60.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-448882858</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>interstatesign_i65</Name>
+		<File>CND\ProjectAmerica\signs\interstatesigns\interstatesign_i65.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-448882853</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>interstatesign_i69</Name>
+		<File>CND\ProjectAmerica\signs\interstatesigns\interstatesign_i69.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-448882849</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>interstatesign_i70</Name>
+		<File>CND\ProjectAmerica\signs\interstatesigns\interstatesign_i70.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-448817259</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>interstatesign_i75</Name>
+		<File>CND\ProjectAmerica\signs\interstatesigns\interstatesign_i75.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-448817254</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>interstatesign_i8</Name>
+		<File>CND\ProjectAmerica\signs\interstatesigns\interstatesign_i8.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-1796522148</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>interstatesign_i80</Name>
+		<File>CND\ProjectAmerica\signs\interstatesigns\interstatesign_i80.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-448751660</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>interstatesign_i84</Name>
+		<File>CND\ProjectAmerica\signs\interstatesigns\interstatesign_i84.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-448751656</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>interstatesign_i85</Name>
+		<File>CND\ProjectAmerica\signs\interstatesigns\interstatesign_i85.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-448751655</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>interstatesign_i90</Name>
+		<File>CND\ProjectAmerica\signs\interstatesigns\interstatesign_i90.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-448686061</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>interstatesign_i95</Name>
+		<File>CND\ProjectAmerica\signs\interstatesigns\interstatesign_i95.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-448686056</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>stopsign_flashing</Name>
+		<File>CND\ProjectAmerica\signs\stopsign_flashing\stopsign_flashing.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-15653149</Fill>
+		<Outline>-16777216</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>1307081330</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>streetsign_blank</Name>
+		<File>CND\ProjectAmerica\signs\streetsigns\streetsign_blank.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16760832</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-2124742347</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>streetsign_cr39_lithia</Name>
+		<File>CND\ProjectAmerica\signs\streetsigns\streetsign_cr39_lithia.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16760832</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-1654449900</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>streetsign_cr39_polk</Name>
+		<File>CND\ProjectAmerica\signs\streetsigns\streetsign_cr39_polk.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16760832</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>943868649</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>streetsign_miami_lithia</Name>
+		<File>CND\ProjectAmerica\signs\streetsigns\streetsign_miami_lithia.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16760832</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>2126040262</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>streetsign_miami_polk</Name>
+		<File>CND\ProjectAmerica\signs\streetsigns\streetsign_miami_polk.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16760832</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-39372901</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+</Library>

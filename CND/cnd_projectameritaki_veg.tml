@@ -1,0 +1,1191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Library name="cnd_projectameritaki_veg" shape="rectangle" default_fill="-16777216" default_outline="-65536" tex="0">
+	<Template>
+		<Name>northernbush1</Name>
+		<File>CND\ProjectAmerica\vegetation\bushes\northernbush1.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>412075245</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>sawpalmetto_v1</Name>
+		<File>CND\ProjectAmerica\vegetation\bushes\sawpalmetto_v1.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>1189869909</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>sawpalmetto_v2</Name>
+		<File>CND\ProjectAmerica\vegetation\bushes\sawpalmetto_v2.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>1189869910</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>basegrass_lightgreen1</Name>
+		<File>CND\ProjectAmerica\vegetation\grass\basegrass_lightgreen1.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-47643510</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>floridagrass1</Name>
+		<File>CND\ProjectAmerica\vegetation\grass\floridagrass1.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-289118088</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>floridagrass2</Name>
+		<File>CND\ProjectAmerica\vegetation\grass\floridagrass2.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-289118087</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>floridagrass3</Name>
+		<File>CND\ProjectAmerica\vegetation\grass\floridagrass3.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-289118086</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>floridagrass4</Name>
+		<File>CND\ProjectAmerica\vegetation\grass\floridagrass4.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-289118085</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>floridagrass5</Name>
+		<File>CND\ProjectAmerica\vegetation\grass\floridagrass5.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-289118084</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>floridagrass6</Name>
+		<File>CND\ProjectAmerica\vegetation\grass\floridagrass6.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-289118083</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>mushrooms_v1</Name>
+		<File>CND\ProjectAmerica\vegetation\grass\mushrooms_v1.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-30364513</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>mushrooms_v2</Name>
+		<File>CND\ProjectAmerica\vegetation\grass\mushrooms_v2.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-30364512</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>mushrooms_v3</Name>
+		<File>CND\ProjectAmerica\vegetation\grass\mushrooms_v3.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-30364511</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>mushrooms_v4</Name>
+		<File>CND\ProjectAmerica\vegetation\grass\mushrooms_v4.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-30364510</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>northerngrass1</Name>
+		<File>CND\ProjectAmerica\vegetation\grass\northerngrass1.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>865684759</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>northerngrass2</Name>
+		<File>CND\ProjectAmerica\vegetation\grass\northerngrass2.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>865684760</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>northerngrass3</Name>
+		<File>CND\ProjectAmerica\vegetation\grass\northerngrass3.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>865684761</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>northerngrass4</Name>
+		<File>CND\ProjectAmerica\vegetation\grass\northerngrass4.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>865684762</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>northerngrass5</Name>
+		<File>CND\ProjectAmerica\vegetation\grass\northerngrass5.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>865684763</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>northerngrass6</Name>
+		<File>CND\ProjectAmerica\vegetation\grass\northerngrass6.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>865684764</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>spanishneedle</Name>
+		<File>CND\ProjectAmerica\vegetation\grass\spanishneedle.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>1753416899</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>icebits10x10</Name>
+		<File>CND\ProjectAmerica\vegetation\rocks\icebits10x10.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-1393601209</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>icechunkmd1</Name>
+		<File>CND\ProjectAmerica\vegetation\rocks\icechunkmd1.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-34785608</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>icechunkmd2</Name>
+		<File>CND\ProjectAmerica\vegetation\rocks\icechunkmd2.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-34785607</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>icechunkmd3</Name>
+		<File>CND\ProjectAmerica\vegetation\rocks\icechunkmd3.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-34785606</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>icechunkmd4</Name>
+		<File>CND\ProjectAmerica\vegetation\rocks\icechunkmd4.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-34785605</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>icechunksm1</Name>
+		<File>CND\ProjectAmerica\vegetation\rocks\icechunksm1.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>15373813</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>icechunksm2</Name>
+		<File>CND\ProjectAmerica\vegetation\rocks\icechunksm2.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>15373814</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>icechunksm3</Name>
+		<File>CND\ProjectAmerica\vegetation\rocks\icechunksm3.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>15373815</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>icechunksm4</Name>
+		<File>CND\ProjectAmerica\vegetation\rocks\icechunksm4.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>15373816</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>seaice1</Name>
+		<File>CND\ProjectAmerica\vegetation\rocks\seaice1.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-137611403</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>seaice2</Name>
+		<File>CND\ProjectAmerica\vegetation\rocks\seaice2.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-137611402</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>t_kelp20ft</Name>
+		<File>CND\ProjectAmerica\vegetation\sea\t_kelp20ft.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-1716303691</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>t_kelp30ft</Name>
+		<File>CND\ProjectAmerica\vegetation\sea\t_kelp30ft.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-935716492</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>t_kelp40ft</Name>
+		<File>CND\ProjectAmerica\vegetation\sea\t_kelp40ft.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-155129293</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>t_blackspruce1</Name>
+		<File>CND\ProjectAmerica\vegetation\trees\blackspruce1\t_blackspruce1.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16760832</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-1349945413</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+</Library>

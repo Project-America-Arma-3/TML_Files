@@ -1,0 +1,1059 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Library name="taki_misc" shape="rectangle" default_fill="-16777216" default_outline="-65536" tex="0">
+	<Template>
+		<Name>deadfish_10x10</Name>
+		<File>CND\ProjectAmerica\miscellaneous\deadfish_10x10.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>648929685</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>deadhumpbackwhale</Name>
+		<File>CND\ProjectAmerica\miscellaneous\deadhumpbackwhale.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-575047090</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>funball</Name>
+		<File>CND\ProjectAmerica\miscellaneous\funball.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-1497354338</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>funball_big</Name>
+		<File>CND\ProjectAmerica\miscellaneous\funball_big.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-1396288993</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>measuringstick</Name>
+		<File>CND\ProjectAmerica\miscellaneous\measuringstick.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>795016597</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>measuringstick3axis</Name>
+		<File>CND\ProjectAmerica\miscellaneous\measuringstick3axis.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-205897473</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>toiletamerican</Name>
+		<File>CND\ProjectAmerica\miscellaneous\toiletamerican.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>401371693</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>trollge</Name>
+		<File>CND\ProjectAmerica\miscellaneous\trollge.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>891963055</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>armaenergycan</Name>
+		<File>CND\ProjectAmerica\miscellaneous\food\armaenergycan.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>1932732547</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>bepiscan</Name>
+		<File>CND\ProjectAmerica\miscellaneous\food\bepiscan.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-1832614919</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>conkcan</Name>
+		<File>CND\ProjectAmerica\miscellaneous\food\conkcan.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>1122209703</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>dogfood</Name>
+		<File>CND\ProjectAmerica\miscellaneous\food\dogfood.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>1525452506</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>dogfood_stack</Name>
+		<File>CND\ProjectAmerica\miscellaneous\food\dogfood_stack.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>1823144675</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>fertilizer</Name>
+		<File>CND\ProjectAmerica\miscellaneous\food\fertilizer.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-1396791454</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>fertilizer_stack</Name>
+		<File>CND\ProjectAmerica\miscellaneous\food\fertilizer_stack.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-1331181717</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>mountainmistcan</Name>
+		<File>CND\ProjectAmerica\miscellaneous\food\mountainmistcan.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-1899373434</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>mre_v1</Name>
+		<File>CND\ProjectAmerica\miscellaneous\food\mre_v1.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>982904762</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>beerbottle_brown_empty</Name>
+		<File>CND\ProjectAmerica\miscellaneous\food\beerbottle_brown_empty\beerbottle_brown_empty.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>910721115</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>beerbottle_brown_withcap</Name>
+		<File>CND\ProjectAmerica\miscellaneous\food\beerbottle_brown_withcap\beerbottle_brown_withcap.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>1410775354</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>beer_testcube</Name>
+		<File>CND\ProjectAmerica\miscellaneous\food\beerbottle_brown_withcap\beer_testcube.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-1718198890</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>beer_splash</Name>
+		<File>CND\ProjectAmerica\miscellaneous\food\beerbottle_brown_withcap\shards\beer_splash.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>488716918</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>beer_splash_faint</Name>
+		<File>CND\ProjectAmerica\miscellaneous\food\beerbottle_brown_withcap\shards\beer_splash_faint.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-313415157</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>brown_bb_shard1</Name>
+		<File>CND\ProjectAmerica\miscellaneous\food\beerbottle_brown_withcap\shards\brown_bb_shard1.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-1286499799</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>brown_bb_shard2</Name>
+		<File>CND\ProjectAmerica\miscellaneous\food\beerbottle_brown_withcap\shards\brown_bb_shard2.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-1286499798</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>brown_bb_shard3</Name>
+		<File>CND\ProjectAmerica\miscellaneous\food\beerbottle_brown_withcap\shards\brown_bb_shard3.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-1286499797</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>brown_bb_shardbottom</Name>
+		<File>CND\ProjectAmerica\miscellaneous\food\beerbottle_brown_withcap\shards\brown_bb_shardbottom.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-1356789677</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>brown_bb_shardcap</Name>
+		<File>CND\ProjectAmerica\miscellaneous\food\beerbottle_brown_withcap\shards\brown_bb_shardcap.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>752430378</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>brown_bb_shardtop</Name>
+		<File>CND\ProjectAmerica\miscellaneous\food\beerbottle_brown_withcap\shards\brown_bb_shardtop.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>893794349</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>refrigerator_green</Name>
+		<File>CND\ProjectAmerica\miscellaneous\furniture\refrigerator_green.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-877740380</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>refrigerator_white</Name>
+		<File>CND\ProjectAmerica\miscellaneous\furniture\refrigerator_white.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>993511658</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>paver_edge_90_red</Name>
+		<File>CND\ProjectAmerica\miscellaneous\garden\paver_edge_90_red.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>1446698590</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+	<Template>
+		<Name>paver_edge_straight_red</Name>
+		<File>CND\ProjectAmerica\miscellaneous\garden\paver_edge_straight_red.p3d</File>
+		<Date>2023-05-05 01:18:46.344770</Date>
+		<Archive></Archive>
+		<Fill>-16727808</Fill>
+		<Outline>-1</Outline>
+		<Scale>1.000000</Scale>
+		<Hash>-270816351</Hash>
+		<ScaleRandMin>0.000000</ScaleRandMin>
+		<ScaleRandMax>0.000000</ScaleRandMax>
+		<YawRandMin>0.000000</YawRandMin>
+		<YawRandMax>0.000000</YawRandMax>
+		<PitchRandMin>0.000000</PitchRandMin>
+		<PitchRandMax>0.000000</PitchRandMax>
+		<RollRandMin>0.000000</RollRandMin>
+		<RollRandMax>0.000000</RollRandMax>
+		<TexLLU>0.000000</TexLLU>
+		<TexLLV>0.000000</TexLLV>
+		<TexURU>1.000000</TexURU>
+		<TexURV>1.000000</TexURV>
+		<BBRadius>-1.000000</BBRadius>
+		<BBHScale>1.000000</BBHScale>
+		<AutoCenter>0</AutoCenter>
+		<XShift>0.000000</XShift>
+		<YShift>0.000000</YShift>
+		<ZShift>0.000000</ZShift>
+		<Height>0.000000</Height>
+		<BoundingMin X="999.000000" Y="999.000000" Z="999.000000"></BoundingMin>
+		<BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingMax>
+		<BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000"></BoundingCenter>
+		<Placement></Placement>
+	</Template>
+</Library>
